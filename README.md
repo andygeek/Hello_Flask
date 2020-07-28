@@ -20,7 +20,7 @@ Virtualenv needs to be initialized in the repository file.
 ````
 virtualenv env
 ````
-Then, is necesarry to activate viertualenv.
+Then, is necessary to activate viertualenv.
 ````
 source env/Scripts/activate
 ````
