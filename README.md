@@ -4,6 +4,8 @@
 
 It is my fist application in Flask with Python.
 
+![](https://imgur.com/HfgNGlw.png)
+
 ## Starting 🚀
 
 These instructions allow you to obtain a copy of the running project on your local machine for development and testing purposes.
