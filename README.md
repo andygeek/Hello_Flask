@@ -12,7 +12,7 @@ These instructions allow you to obtain a copy of the running project on your loc
 
 You need to have install:
 - Python 3
-- Virtualenv of python
+- Virtualenv for python
 
 Virtualenv needs to be initialized in the repository file.
 ````
