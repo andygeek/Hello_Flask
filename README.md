@@ -43,6 +43,12 @@ Now to run the application use the following command.
 ```` 
 flask run
 ````
+### Deployment 📦
+
+For deployment in a server use the following command.
+````py
+python main.py
+````
 ------
 
 ⌨️ with ❤️ for [AndyGeek](https://github.com/andygeek) 😊
